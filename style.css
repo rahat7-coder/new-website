@@ -1,0 +1,143 @@
+body{
+    margin: 0px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.highlight{
+    color: #ffbc00ed;
+    font-size: 50px;
+}
+
+p{
+    font-size: 40px;
+    color: dimgrey;
+}
+
+.section-1{
+    background-image: url("images/header-bg.png");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 10%;
+    padding-top: 5%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #369ff2, #0af0c6);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: whitesmoke;
+}
+#section-2-heading{
+    font-size: 45px;
+    margin-top: 150px;
+    color: #ff1671;
+    font-weight: 800;
+}
+
+.link-button-2{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #ff1671, #ff5296);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: whitesmoke;
+}
+
+.section-2{
+    background-image: url("images/biography-bg.png");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#work-station{
+     text-align: center; 
+     margin: 120px;
+     font-size: 50px;
+     color: #09b309bf;
+}
+
+.img-fixing{
+    width: 25%;
+    margin-left: 4%; 
+}
+
+.img-fixing img{
+    width: 100%;
+}
+
+.latest-work{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+.section-3{
+    background-image: url("images/latest-work-bg.png");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.section-4{
+    background-image: url("images/footer-bg.png");
+    height: 750px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+#client-work{
+    font-size: 50px;
+    color: #0404e2c7;
+}
+
+#name{
+    font-size: 25px;
+}
+#work{
+    font-size: 20px;
+}
+#words{
+    width: 40%;
+    margin: auto;
+    font-size: 20px;
+    padding-top: 30px;
+}
+
+.box{
+    width: 50%;
+    margin: auto;
+    background-image: linear-gradient(360deg, #FF1673, #FF50B4);
+    padding: 2%;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+
+#box-resize{
+    color: white;
+    font-size: 25px;
+}
+
+#contact{
+    color: white;
+}
+
+footer{
+    text-align: center;
+}
+#footer{
+    font-style: italic;
+    font-size: 20px;
+}
